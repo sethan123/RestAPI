@@ -1,4 +1,4 @@
-package day2;
+package Test2;
 
 public class Pojo_PostRequest {
 
