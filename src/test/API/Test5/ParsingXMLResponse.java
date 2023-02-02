@@ -1,5 +1,13 @@
 package Test5;
 
+//RestAssured
+//		-------------
+//		Parsing XML Response
+//		----------
+//
+//		http://restapi.adequateshop.com/api/Traveler?page=1
+
+
 import static io.restassured.RestAssured.*;
 import static io.restassured.matcher.RestAssuredMatchers.*;
 import static org.hamcrest.Matchers.*;

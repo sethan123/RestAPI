@@ -1,5 +1,8 @@
 package Test5;
 
+//Open command prompt , the run below command
+//
+//		java - jar file-upload-RestAPI.jar
 
 import static io.restassured.RestAssured.*;
 import static io.restassured.matcher.RestAssuredMatchers.*;
